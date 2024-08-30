@@ -1,0 +1,1 @@
+# vale_rejected_word_in_list
